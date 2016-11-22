@@ -4,3 +4,5 @@ i
 
 
 testing again dded cert in trust file
+
+adding   C:\Users\unnikasw\AppData\Local\Programs\Git\etc\pki\ca-trust\source\anchors CAcert.org_root
