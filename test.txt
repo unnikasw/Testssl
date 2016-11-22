@@ -9,3 +9,6 @@ adding   C:\Users\unnikasw\AppData\Local\Programs\Git\etc\pki\ca-trust\source\an
 adding in C:\Users\unnikasw\AppData\Local\Programs\Git\etc\pki\ca-trust\extracted\openssl  ca-bundle.trust
 
 resetting http.sslcsinfo
+
+
+added only in ca-bundle.trust
